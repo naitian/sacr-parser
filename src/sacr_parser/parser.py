@@ -41,6 +41,9 @@ class Annotation:
         end_idx = spans[-1].end_idx
         return Span(start_idx=start_idx, end_idx=end_idx, text=self.text)
 
+    def __repr__(self):
+        return f"Annotation(entity={self.entity}, tag={self.tag}, span={self.span})"
+
 
 class SACRTransformer(Transformer):
     def __init__(self):
@@ -74,16 +77,7 @@ class SACRTransformer(Transformer):
         return items[0].value
 
     def content(self, items):
-        # content only has one item
         return items
-        # content = [
-        #     item.text if isinstance(item, Annotation) else item for item in items
-        # ]
-        # return Span(
-        #     start_idx=content[0].start_idx,
-        #     end_idx=content[-1].end_idx,
-        #     text="".join([span.text for span in content]),
-        # )
 
     def plain_text(self, items):
         text = items[0].value
@@ -133,7 +127,5 @@ def parse(sacr_file: str) -> list[Annotation]:
 
 if __name__ == "__main__":
     # Example usage
-    from sacr_parser.utils import BASE_DIR
-
-    sample_sacr_file = open(BASE_DIR / "example/62.txt").read()
-    print(parse(sample_sacr_file))
+    text = '{person:name="Alice" Hello {animal:type="Cat" Friendly!}} some extra text'
+    print(parse(text))
