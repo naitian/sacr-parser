@@ -1,0 +1,39 @@
+#textid: 62
+
+THE {M1:adj="is" first} {M1:adj="" time} Caesar approached Cora about running north, she said no. This was her grandmother talking. Cora’s grandmother had never seen the ocean before that {M2:adj="is" bright} {M2:adj="" afternoon} in the port of Ouidah and the water dazzled after her time in the fort’s dungeon. The dungeon stored them until the ships arrived. {M3:adj="is" Dahomeyan} {M3:adj="" raiders} kidnapped the men first, then returned to her village the {M4:adj="is" next} {M4:adj="" moon} for the women and children, marching them in chains to the sea two by two. As she stared into the {M5:adj="is" black} {M5:adj="" doorway}, Ajarry thought she’d be reunited with her father, down there in the dark. The survivors from her village told her that when her father couldn’t keep the pace of the {M6:adj="is" long} {M6:adj="" march}, the slavers stove in his head and left his body by the trail. Her mother had died years before. Cora’s grandmother was sold a {M7:adj="is" few} {M7:adj="" times} on the trek to the fort, passed between slavers for {M9:adj="is" cowrie} {M9:adj="" shells} and {M10:adj="is" glass} {M10:adj="" beads}. {M8:adj="" It} was {M8:adj="is" hard} to say how much they paid for her in Ouidah as she was part of a {M11:adj="is" bulk} {M11:adj="" purchase}, {M13:adj="is" eighty-eight} {M13:adj="is" human} {M13:adj="" souls} for {M14:adj="is" sixty} {M14:adj="" crates} of rum and gunpowder, the price arrived upon after the {M15:adj="is" standard} {M15:adj="" haggling} in {M15:adj="is" Coast English}. {M16:adj="is" Able-bodied} {M16:adj="" men} and {M17:adj="is" childbearing} {M17:adj="" women} fetched more than juveniles, making an {M12:adj="" individual accounting} {M12:adj="is" difficult}. The Nanny was out of Liverpool and had made two {M18:adj="is" previous} {M18:adj="" stops} along the Gold Coast. The captain staggered his purchases, rather than find himself with cargo of {M19:adj="is" singular} {M19:adj="" culture and disposition}. Who knew what brand of mutiny his captives might cook up if they shared a {M20:adj="is" common} {M20:adj="" tongue}. This was the ship’s {M21:adj="is" final} {M21:adj="" port of call} before they crossed the Atlantic. Two {M23:adj="is" yellow-haired} {M23:adj="" sailors} rowed Ajarry out to the ship, humming. {M22:adj="is" White} {M22:adj="" skin} like bone. The {M24:adj="is" noxious} {M24:adj="" air} of the hold, the gloom of confinement, and the screams of those shackled to her contrived to drive Ajarry to madness. Because of her {M25:adj="is" tender} {M25:adj="" age}, her captors did not immediately force their urges upon her, but eventually some of the more {M26:adj="is" seasoned} {M26:adj="" mates} dragged her from the hold six weeks into the passage. She twice tried to kill herself on the voyage to America, once by denying herself food and then again by drowning. The sailors stymied her both times, versed in the schemes and inclinations of chattel. Ajarry didn’t even make it to the gunwale when she tried to jump overboard. Her {M29:adj="is" simpering} {M29:adj="" posture} and {M27:adj="is" piteous} {M27:adj="" aspect}, {M29:adj="is" {M27:adj="is" recognizable}} from thousands of slaves before her, betrayed her intentions. Chained head to toe, head to toe, in {M28:adj="is" exponential} {M28:adj="" misery}. Although they had tried not to get separated at the auction in Ouidah, the rest of her family was purchased by {M30:adj="is" Portuguese} {M30:adj="" traders} from the frigate Vivilia, next seen four months later drifting ten miles off Bermuda. Plague had claimed all on board. Authorities lit the ship on fire and watched her crackle and sink. Cora’s grandmother knew nothing about the ship’s fate. For the rest of her life she imagined her cousins worked for
+
+
+
+#COLOR:M1=hsl(0, 100%, 80%)
+#COLOR:M2=hsl(25, 100%, 80%)
+#COLOR:M3=hsl(50, 100%, 80%)
+#COLOR:M4=hsl(75, 100%, 80%)
+#COLOR:M5=hsl(100, 100%, 80%)
+#COLOR:M6=hsl(125, 100%, 80%)
+#COLOR:M7=hsl(150, 100%, 80%)
+#COLOR:M9=hsl(175, 100%, 80%)
+#COLOR:M10=hsl(200, 100%, 80%)
+#COLOR:M8=hsl(225, 100%, 80%)
+#COLOR:M11=hsl(250, 100%, 80%)
+#COLOR:M13=hsl(275, 100%, 80%)
+#COLOR:M14=hsl(300, 100%, 80%)
+#COLOR:M15=hsl(325, 100%, 80%)
+#COLOR:M16=hsl(350, 100%, 80%)
+#COLOR:M17=hsl(0, 100%, 70%)
+#COLOR:M12=hsl(25, 100%, 70%)
+#COLOR:M18=hsl(50, 100%, 70%)
+#COLOR:M19=hsl(75, 100%, 70%)
+#COLOR:M20=hsl(100, 100%, 70%)
+#COLOR:M21=hsl(125, 100%, 70%)
+#COLOR:M23=hsl(150, 100%, 70%)
+#COLOR:M22=hsl(175, 100%, 70%)
+#COLOR:M24=hsl(200, 100%, 70%)
+#COLOR:M25=hsl(225, 100%, 70%)
+#COLOR:M26=hsl(250, 100%, 70%)
+#COLOR:M27=hsl(300, 100%, 70%)
+#COLOR:M29=hsl(275, 100%, 70%)
+#COLOR:M28=hsl(325, 100%, 70%)
+#COLOR:M30=hsl(350, 100%, 70%)
+
+#TOKENIZATION-TYPE:1
+
