@@ -28,7 +28,7 @@ class Annotation:
 
     content: list[Span | Annotation]
     entity: Entity
-    tag: str
+    tag: dict[str, str | None]
 
     @property
     def text(self):
@@ -60,9 +60,7 @@ class SACRTransformer(Transformer):
         else:  # Handle unexpected length
             raise ValueError("Unexpected number of items in annotation")
         annotation = Annotation(
-            content=content,
-            entity=entity,
-            tag=f"{tag_name}={tag_value}",
+            content=content, entity=entity, tag={tag_name: tag_value}
         )
         return annotation
 

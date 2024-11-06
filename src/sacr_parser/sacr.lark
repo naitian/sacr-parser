@@ -6,4 +6,4 @@ tag_name: /[A-Za-z0-9_]+/
 tag_value: /[A-Za-z0-9_]+/
 plain_text: /[^{}]+/
 
-content: (plain_text? annotation plain_text? | plain_text)
+content: ((plain_text? annotation plain_text?)+ | plain_text)
