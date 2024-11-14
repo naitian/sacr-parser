@@ -125,5 +125,5 @@ def parse(sacr_file: str) -> list[Annotation]:
 
 if __name__ == "__main__":
     # Example usage
-    text = '{person:name="Alice" Hello {animal:type="Cat" Friendly!}} some extra text'
+    text = '{person:name="Alice" Hello {animal:type="animal:cat" Friendly!}} some extra text'
     print(parse(text))
